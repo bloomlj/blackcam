@@ -1,0 +1,12 @@
+{
+  "name": "blackcam",
+  "version": "0.0.0",
+  "dependencies": {
+    "camelittle": "*",
+    "dateformat": "^1.0.11",
+    "galileo-gpio": "*",
+    "johnny-five ": "*",
+    "wordpress-client": "^0.5.3",
+    "wordpress-rpc": "^0.1.6"
+  }
+}
